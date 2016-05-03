@@ -1,1 +1,1 @@
-include ':Pattern'
+include ':Pattern', ':Daemon'
