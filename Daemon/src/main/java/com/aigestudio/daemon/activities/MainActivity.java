@@ -10,10 +10,10 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        try {
-            Runtime.getRuntime().exec("sh", null, new File("/"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            Runtime.getRuntime().exec("sh", null, new File("/"));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
     }
 }
