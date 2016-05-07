@@ -10,20 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2abda85-2470-455d-a97e-138713eae326" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/services/CancelService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/services/DaemonService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/services/ProtectService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Daemon/src/main/res/layout/ac_main.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/TMP.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/Daemon.iml" afterPath="$PROJECT_DIR$/Daemon/Daemon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Daemon/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/activities/MainActivity.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/activities/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/DReceiver.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/DReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/DService.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/DService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/Daemon.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/core/Daemon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/utils/LogUtil.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/utils/LogUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/utils/SysUtil.java" afterPath="$PROJECT_DIR$/Daemon/src/main/java/com/aigestudio/daemon/utils/SysUtil.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/Design.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/java/com/aigestudio/design/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/src/main/res/values/styles.xml" afterPath="" />
     </list>
     <ignored path="Android.iws" />
     <ignored path=".idea/workspace.xml" />
