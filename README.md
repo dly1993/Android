@@ -1,2 +1,2 @@
 # Android
-Android Demos of my articles.
+Android Demos.
